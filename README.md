@@ -73,6 +73,7 @@ class MyApp extends StatelessWidget {
 
 foto 2
 
+```dart
 import 'package:faker/faker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_24/models/product.dart';
@@ -148,5 +149,5 @@ class _HomepageState extends State<Homepage> {
         ));
   }
 }
-
+```
 foto 3
