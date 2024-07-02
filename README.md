@@ -48,7 +48,8 @@ class Product {
 
 ```
 
-foto 1
+![code-snapshot1](https://github.com/appworkspaceRM/widget-with-model/assets/135511281/cb0e7236-9abd-45e4-8e6a-f2a8787fffe2)
+
 
 ```dart
 import 'package:flutter/material.dart';
@@ -71,7 +72,8 @@ class MyApp extends StatelessWidget {
 
 ```
 
-foto 2
+![code-snapshot2](https://github.com/appworkspaceRM/widget-with-model/assets/135511281/71ec6fe5-1545-49e2-9d97-9d937cfb5e17)
+
 
 ```dart
 import 'package:faker/faker.dart';
@@ -150,4 +152,4 @@ class _HomepageState extends State<Homepage> {
   }
 }
 ```
-foto 3
+![code-snapshot3](https://github.com/appworkspaceRM/widget-with-model/assets/135511281/cc03b0a0-cdfc-40e1-a0dd-c1c7ad431285)
